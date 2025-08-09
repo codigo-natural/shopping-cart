@@ -1,4 +1,6 @@
 # Prueba Técnica: API y Carrito de Compras
+<img width="1830" height="987" alt="image" src="https://github.com/user-attachments/assets/2c4fcd7c-955e-4186-bdb9-49b6abd43462" />
+
 
 Una aplicación completa de e-commerce desarrollada con **Next.js 15** y **React 19** que incluye:
 
